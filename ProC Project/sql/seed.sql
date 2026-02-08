@@ -1,0 +1,2 @@
+INSERT INTO customers VALUES ('c001','ACTIVE',1000);
+COMMIT;
