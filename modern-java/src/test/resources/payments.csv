@@ -1,0 +1,7 @@
+payment_id,customer_id,amount_cents
+p1,c001,7000
+p2,c999,1000
+p3,c003,2000
+p4,c002,999999
+badrow
+p5,c001,4000
